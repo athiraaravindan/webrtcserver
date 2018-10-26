@@ -1,0 +1,17 @@
+{
+  "name": "classroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "rtcmulticonnection": "^3.5.1",
+    "rtcmulticonnection-server": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "athira",
+  "license": "ISC"
+}
